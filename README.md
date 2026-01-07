@@ -2,3 +2,4 @@
 
 - First Project
   -  basic sum of n numbers using for loop 
+  -  string functions
