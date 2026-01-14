@@ -26,6 +26,7 @@ This repository contains various small Python projects to practice and demonstra
 
 ### Other Utilities
 - **RPS.py**: Rock Paper Scissors game
+- **tictactoe.py**: Tic Tac Toe game with user vs computer (random moves)
 - **guess.py**: Number guessing game
 - **primenum.py**: Prime number checker/generator
 - **quadratic.py**: Solves quadratic equations
